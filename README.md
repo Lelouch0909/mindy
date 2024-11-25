@@ -21,19 +21,18 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/social-skills-ai.git
-cd social-skills-ai
+git clone https://github.com/Lelouch0909/mindy.git
 Install dependencies: For the frontend:
 
 bash
 Copy code
-cd frontend
+cd mindyfront
 npm install
 For the backend:
 
 bash
 Copy code
-cd backend
+cd mindyback
 ./mvnw install
 Run the application:
 

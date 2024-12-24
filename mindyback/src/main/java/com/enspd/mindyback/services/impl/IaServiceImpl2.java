@@ -35,7 +35,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-@Primary
 public class IaServiceImpl2 implements IaService {
 
     @Autowired
